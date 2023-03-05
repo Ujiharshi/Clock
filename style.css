@@ -1,0 +1,31 @@
+.container{
+    margin: 4% 8%;
+}
+.display-4{
+    font-weight:800;
+    font-size: 4.5rem;
+    text-decoration: underline;
+}
+.display-4:hover{
+    color: #313131;
+}
+.lead{
+    font-size: 2rem;
+    font-weight: 500;
+}
+.navbar{
+    background-color: #313131!important;
+}
+.navbar-brand{
+    font-size: 3rem;
+    font-weight: 900;
+    text-decoration: underline;
+}
+.nav-link{
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+.navbar-nav{
+    margin: 0% 25%;
+    text-decoration: underline;
+}
